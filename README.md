@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I'm passionate about all things code and science, 
 
 ## 🌟 Featured Projects
 
+- [systeminfo.py](https://github.com/black-backdoor/systeminfo.py): a collection of popular python modules to read systeminfo in one file.
 - [BBBaden-Moodle](https://github.com/black-backdoor/BBBaden-Moodle): a collection of tools which improve the Moodle BBBaden website.
 
 Feel free to explore my repositories to find more projects and contributions!
