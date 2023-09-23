@@ -1,13 +1,13 @@
 # 👋 Hello, I’m [@black-backdoor](https://github.com/black-backdoor)!
 
-Welcome to my GitHub profile! I'm passionate about all things code and science, and I'm constantly expanding my knowledge and skills in these areas. Here's a bit more about me:
+Welcome to my GitHub profile! I'm passionate about all things code and science. I'm constantly expanding my knowledge and skills in these areas. Here's a bit more about me:
 
 ## 👨‍💻 About Me
 
 - 💡 I’m enthusiastic about exploring the realms of technology and its intersection with science.
 - 🌱 Currently, I'm on an exciting learning journey, always eager to dive into new projects and challenges.
 - 🤝 I’m open to collaborations on interesting and impactful projects. Let's build something awesome together!
-- 📫 I am currently expanding my knowledge in this areas which means I am quite bussy.
+- 📫 I am currently expanding my knowledge in these areas which means I am quite bussy.
 
 ## 🚀 Interests
 
