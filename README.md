@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about all things code and science. 
 - 💡 I’m enthusiastic about exploring the realms of technology and its intersection with science.
 - 🌱 Currently, I'm on an exciting learning journey, always eager to dive into new projects and challenges.
 - 🤝 I’m open to collaborations on interesting and impactful projects. Let's build something awesome together!
-- 📫 I am currently expanding my knowledge in these areas which means I am quite bussy.
+- 📫 I am currently expanding my knowledge in these areas which means I am quite busy.
 
 ## 🚀 Interests
 
