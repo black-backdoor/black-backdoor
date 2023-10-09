@@ -1,6 +1,6 @@
 # 👋 Hello, I’m [@black-backdoor](https://github.com/black-backdoor)!
 
-Welcome to my GitHub profile! I'm passionate about all things code and science. I'm constantly expanding my knowledge and skills in these areas. Here's a bit more about me:
+Welcome to my GitHub profile! I'm passionate about all things related to code and science. I'm constantly expanding my knowledge and skills in these areas. Here's a bit more about me:
 
 ## 👨‍💻 About Me
 
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about all things code and science. 
 ## 🌟 Featured Projects
 
 - [systeminfo.py](https://github.com/black-backdoor/systeminfo.py): a collection of popular python modules to read systeminfo in one file.
-- [BBBaden-Moodle](https://github.com/black-backdoor/BBBaden-Moodle): a collection of tools which improve the Moodle BBBaden website.
+- [BBBaden-Moodle](https://github.com/BBBaden-Moodle-userscripts/BBBaden-Moodle): a collection of tools which improve the Moodle BBBaden website.
 
 Feel free to explore my repositories to find more projects and contributions!
 
