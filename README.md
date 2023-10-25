@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I'm passionate about all things related to code an
 
 ## 🌟 Featured Projects
 - [userscript-installation-guide](https://github.com/black-backdoor/userscript-installation-guide): a guide on how to install & use userscripts
+- [FileImport](https://github.com/black-backdoor/FileImport): Project that allows you to merge multiple files into one.
 - [systeminfo.py](https://github.com/black-backdoor/systeminfo.py): a collection of popular python modules to read systeminfo in one file.
 - [BBBaden-Moodle](https://github.com/BBBaden-Moodle-userscripts/BBBaden-Moodle): a collection of tools which improve the Moodle BBBaden website.
 
