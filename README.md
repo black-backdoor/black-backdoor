@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I love exploring technology and working on project
 - 📊 **Data Science:** Turning data into insights through visualization.  
 
 ### 🌟 Featured Projects
+- [**LockTimeNotification**](https://github.com/black-backdoor/LockTimeNotification): Notifies you when your computer is unlocked, showing the time elapsed.
 - [**MeOS**](https://github.com/black-backdoor/MeOS): A fun, web-based operating system experience.
 
 Feel free to check out [my repositories](https://github.com/black-backdoor?tab=repositories) to see more of what I’ve worked on.  
